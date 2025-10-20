@@ -25,6 +25,20 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 | `DELETE` | `/api/tasks?id=<id>` | Delete a task |
 | `GET` | `/api/tasks/execute?id=<id>` | Execute command for a task |
 
+
+## Screenshots
+
+Below are screenshots showing the working API:
+
+✅ **Postman test results**  
+![Postman Screenshot](screenshots/postman-put-task.png)
+
+✅ **MongoDB Compass data**  
+![MongoDB Screenshot](screenshots/mongodb-compass.png)
+
+✅ **Spring Boot console logs**  
+![Spring Boot Logs](screenshots/vscode-terminal.png)
+
 ## How to Run
 1. Ensure MongoDB is running on **localhost:27017**  
 2. Run the app:
@@ -38,15 +52,5 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
   "owner": "Sanu",
   "command": "dir"
 }
-## Screenshots
 
-Below are screenshots showing the working API:
 
-✅ **Postman test results**  
-![Postman Screenshot](screenshots/postman-put-task.png)
-
-✅ **MongoDB Compass data**  
-![MongoDB Screenshot](screenshots/mongodb-compass.png)
-
-✅ **Spring Boot console logs**  
-![Spring Boot Logs](screenshots/vscode-terminal.png)
