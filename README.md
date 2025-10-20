@@ -4,7 +4,7 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 
 ---
 
-## 🚀 Features
+## Features
 - Create and update tasks  
 - Retrieve tasks by ID or name  
 - Delete tasks  
@@ -12,7 +12,7 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Java 17**  
 - **Spring Boot 3**  
 - **MongoDB**  
@@ -21,7 +21,7 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 
 ---
 
-## 📡 Endpoints
+## Endpoints
 
 | Method | Endpoint | Description |
 |---------|-----------|-------------|
