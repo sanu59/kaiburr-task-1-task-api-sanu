@@ -39,10 +39,10 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
   "command": "dir"
 }
 ## Screenshots
+## Screenshots
 
 Below are screenshots showing the working API:
 
-✅ Postman test results
-✅ MongoDB Compass data
-✅ Spring Boot console logs
-
+- ✅ **Postman test results**
+- ✅ **MongoDB Compass data**
+- ✅ **Spring Boot console logs**
