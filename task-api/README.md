@@ -25,19 +25,40 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 | `DELETE` | `/api/tasks?id=<id>` | Delete a task |
 | `GET` | `/api/tasks/execute?id=<id>` | Execute command for a task |
 
-
 ## Screenshots
 
-Below are screenshots showing the working API:
+Below are screenshots showing the working API for Kaiburr Task 1:
 
-✅ **Postman test results**  
-![Postman Screenshot](screenshots/postman-put-task.png)
+✅ **Spring Boot Console Log**  
+![Spring Boot Console](screenshots/1-vscode-terminal.png)
 
-✅ **MongoDB Compass data**  
-![MongoDB Screenshot](screenshots/mongodb-compass.png)
+✅ **POST /api/tasks – Create Task**  
+![Postman PUT](screenshots/2-put-task.png)
 
-✅ **Spring Boot console logs**  
-![Spring Boot Logs](screenshots/vscode-terminal.png)
+✅ **GET /api/tasks – Retrieve All Tasks**  
+![Postman GET All](screenshots/3-get-all.png)
+
+✅ **GET /api/tasks?id={id} – Retrieve by ID**  
+![Postman GET by ID](screenshots/4-get-by-id.png)
+
+✅ **GET /api/tasks/search?name={name} – Search Success**  
+![Search Success](screenshots/5-search-success.png)
+
+✅ **GET /api/tasks/search?name={name} – 404 Not Found**  
+![Search 404](screenshots/6-search-404.png)
+
+✅ **PUT /api/tasks/{id}/execute – Execute Command**  
+![Execute Command](screenshots/7-execute.png)
+
+✅ **MongoDB Compass – Task Stored with Execution Data**  
+![MongoDB Compass](screenshots/8-compass.png)
+
+✅ **DELETE /api/tasks/{id} – 204 Success**  
+![Delete 204](screenshots/9-delete-204.png)
+
+✅ **GET /api/tasks/{id} – 404 After Deletion**  
+![Delete 404](screenshots/10-delete-404.png)
+
 
 ## How to Run
 1. Ensure MongoDB is running on **localhost:27017**  
