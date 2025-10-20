@@ -73,3 +73,9 @@ Below are screenshots showing the working API for Kaiburr Task 1:
   "owner": "Sanu",
   "command": "dir"
 }
+
+---
+
+🧑‍💻 **Author:** Sangamithra B  
+🎓 Final Year B.Tech | Amrita Vishwa Vidyapeetham, Coimbatore  
+📅 Completed for Kaiburr Internship Task 1 – October 2025
