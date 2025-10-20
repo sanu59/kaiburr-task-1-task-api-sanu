@@ -85,6 +85,6 @@ Below are screenshots showcasing the successful execution of API endpoints for *
 
 ---
 
-🧑‍💻 **Author:** Sangamithra B  
-🎓 Final Year B.Tech | Amrita Vishwa Vidyapeetham, Coimbatore  
-📅 Completed for Kaiburr Internship Task 1 – October 2025
+ **Author:** Sangamithra B  
+ Final Year B.Tech | Amrita Vishwa Vidyapeetham, Coimbatore  
+ Completed for Kaiburr Internship Task 1 – October 2025
