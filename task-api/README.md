@@ -43,10 +43,10 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 Below are screenshots showing the working API:
 
 ✅ **Postman test results**  
-![Postman Screenshot](screenshots/postman.png)
+![Postman Screenshot](screenshots/postman-put-task.png)
 
 ✅ **MongoDB Compass data**  
-![MongoDB Screenshot](screenshots/mongodb.png)
+![MongoDB Screenshot](screenshots/mongodb-compass.png)
 
 ✅ **Spring Boot console logs**  
-![Spring Boot Logs](screenshots/springboot.png)
+![Spring Boot Logs](screenshots/vscode-terminal.png)
