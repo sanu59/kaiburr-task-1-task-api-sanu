@@ -42,12 +42,11 @@ This project is a RESTful API built using **Spring Boot** and **MongoDB** for ma
 
 Below are screenshots showing the working API:
 
-- ✅ **Postman test results**
-- ✅ **MongoDB Compass data**
-- ✅ **Spring Boot console logs**
-
-
-```markdown
+✅ **Postman test results**  
 ![Postman Screenshot](screenshots/postman.png)
+
+✅ **MongoDB Compass data**  
 ![MongoDB Screenshot](screenshots/mongodb.png)
+
+✅ **Spring Boot console logs**  
 ![Spring Boot Logs](screenshots/springboot.png)
