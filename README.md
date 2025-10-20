@@ -1,6 +1,6 @@
 # Kaiburr Task 1 – Spring Boot + MongoDB API
-
-This project is a RESTful API built using **Spring Boot** and **MongoDB** for managing tasks efficiently and securely.
+This project is part of the Kaiburr Internship 2025 Assessment.  
+It implements a RESTful API using **Spring Boot** and **MongoDB** for task management operations such as creating, updating, retrieving, and deleting tasks, as well as executing safe shell commands.
 
 ---
 
